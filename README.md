@@ -31,5 +31,5 @@ User gets the following text message:
 
 ## Architecure Diagram
 <div align=center>
- <img height="700px" src="https://github.com/zhaoyonghe/Readme-Images/blob/master/chatbotarch.jpg"/>
+ <img height="900px" src="https://github.com/zhaoyonghe/Readme-Images/blob/master/chatbotarch.jpg"/>
 </div>
