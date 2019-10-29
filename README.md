@@ -25,6 +25,8 @@ https://auto-dining-concierge-chatbot.s3.us-east-2.amazonaws.com/index.html
 
 (a few minutes later)
 
-User gets the following text message: "Hello! Here are my Japanese restaurant suggestions for 2 people, for today at 7 pm: 1. Sushi Nakazawa, located at 23 Commerce St, 2. Jin Ramen, located at 3183 Broadway, 3. Nikko, located at 1280 Amsterdam Ave. Enjoy your meal!"
+User gets the following text message: 
+
+"Hello! Here are my Japanese restaurant suggestions for 2 people, for today at 7 pm: 1. Sushi Nakazawa, located at 23 Commerce St, 2. Jin Ramen, located at 3183 Broadway, 3. Nikko, located at 1280 Amsterdam Ave. Enjoy your meal!"
 
 ## Architecure Diagram
