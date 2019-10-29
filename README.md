@@ -3,7 +3,7 @@ It is a serverless, microservice-driven chatbot web application implemented by A
 
 ## Application Link
 https://auto-dining-concierge-chatbot.s3.us-east-2.amazonaws.com/index.html
-## Example interaction 
+## Example Interaction 
 - User: Hello
 - Bot: Hi there, how can I help?
 - User: I need some restaurant suggestions.
@@ -30,3 +30,6 @@ User gets the following text message:
 "Hello! Here are my Japanese restaurant suggestions for 2 people, for today at 7 pm: 1. Sushi Nakazawa, located at 23 Commerce St, 2. Jin Ramen, located at 3183 Broadway, 3. Nikko, located at 1280 Amsterdam Ave. Enjoy your meal!"
 
 ## Architecure Diagram
+<div align=center>
+ <img height="700px" src="https://github.com/zhaoyonghe/Readme-Images/blob/master/chatbotarch.jpg"/>
+</div>
